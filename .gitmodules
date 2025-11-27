@@ -1,0 +1,3 @@
+[submodule "Thread_network_devices/thread-br"]
+	path = Thread_network_devices/thread-br
+	url = https://github.com/RobNR1458/Thread_BR.git
