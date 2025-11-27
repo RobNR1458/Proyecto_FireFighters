@@ -3,4 +3,4 @@
 	url = https://github.com/RobNR1458/Thread_BR.git
 [submodule "AWS_Deployment"]
 	path = AWS_Deployment
-	url = https://github.com/RobNR1458/Thread_BR.git
+	url = https://github.com/RobNR1458/AWS_Deployment.git
